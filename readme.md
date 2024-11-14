@@ -8,11 +8,17 @@ Full doc reference:https://openai.com/api/pricing/
 
 If you don't want to see other,just get the answer here.
 
-**For LLM,here just four which is recommendate for you**
+**For LLM,here just 3 suitable model for choose**
 **gpt-4o,gpt-4o-mini,o1**
-**For easy task:gpt-4o-mini**
-**For complex and reasoning task:o1**
-**For common task:gpt-4o**
+
+- For easy task:gpt-4o-mini
+
+- For common task:gpt-4o
+
+- For complex and reasoning task:o1
+
+  
+
 [And here is a guide from OpenAI to select model](https://platform.openai.com/docs/guides/model-selection)
 
 - gpt-4o
