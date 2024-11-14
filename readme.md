@@ -9,10 +9,10 @@ Full doc reference:https://openai.com/api/pricing/
 If you don't want to see other,just get the answer here.
 
 **For LLM,here just four which is recommendate for you**
-**gpt-4o,gpt-4o-mini,gpt-3.5-turbo-0125,o1**
+**gpt-4o,gpt-4o-mini,o1**
 **For easy task:gpt-4o-mini**
 **For complex and reasoning task:o1**
-**For common task:gpt-4o or gpt-3.5-turbo-0125**
+**For common task:gpt-4o**
 [And here is a guide from OpenAI to select model](https://platform.openai.com/docs/guides/model-selection)
 
 - gpt-4o
@@ -29,11 +29,8 @@ If you don't want to see other,just get the answer here.
   Best performance
   ![image-20241114161056886](img/image-20241114161056886.png)
 
-- gpt-3.5
-  Large language model and cheap
-  ![image-20241114161315420](img/image-20241114161315420.png)
 
-## gpt-4o
+## gpt-4o and gpt-4o mini
 
 ![image-20241114160037988](img/image-20241114160037988.png)
 
@@ -48,6 +45,8 @@ GPT-4o mini is our most cost-efficient small model that’s smarter and cheaper 
 
 ## o1
 
+Best performance,high price.
+
 o1-preview is our new reasoning model for complex tasks. The model has 128K context and an October 2023 knowledge cutoff.
 
 ![image-20241114160003189](img/image-20241114160003189.png)
@@ -59,9 +58,13 @@ o1-preview is our new reasoning model for complex tasks. The model has 128K cont
 
 ## gpt-3.5
 
+Large language model and cheap,but it haven't enough context windows.
+
 ![image-20241114160459439](img/image-20241114160459439.png)
 
 ## gpt-4
+
+Too expensive and haven't so much improving.
 
 ![image-20241114160520520](img/image-20241114160520520.png)
 
