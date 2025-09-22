@@ -1,8 +1,12 @@
 
-
+# 2025 OpenAI Model
+gpt-5 for most most powerful.
+gpt-5-mini for balance.
+gpt-5-nan for fastest.
 # LLM in OpenAI
 
 Full doc reference:https://openai.com/api/pricing/
+
 
 ## Recommend and summary for LLM model
 
